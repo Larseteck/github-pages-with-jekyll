@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to my blog, GitHub Pages Testing Page.
 
-I'm glad you are here. I plan to talk about ...
+This is just a test-page.
+
+TEST!
